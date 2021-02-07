@@ -1,0 +1,7 @@
+.shadow {
+  box-shadow: 0 0.2rem 1rem rgba(0, 0, 0, 0.23) !important;
+}
+
+table.disabled {
+  opacity: 0.5;
+}
