@@ -4,7 +4,7 @@
   "description": "designing stem loop primer, human genetic lab, HCMUS",
   "main": "main.js",
   "scripts": {
-    "start": "node main"
+    "start": "node main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
